@@ -1,7 +1,7 @@
 # cpp_design_patterns
 c++设计模式
 
-参考： https://blog.csdn.net/liang19890820/article/details/66974516
+参考： https://design-patterns.readthedocs.io/zh_CN/latest/index.html
 
 ## 一. 创建型模式（Creational Patterns）
 
