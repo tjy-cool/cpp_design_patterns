@@ -45,6 +45,7 @@ c++设计模式
 
 ### 10. 外观模式（Facade Pattern） 
 为子系统中的一组接口提供一个一致的界面，Facade 模式定义了一个高层接口，这个接口使得这一子系统更加容易使用。
+
 [示例](https://github.com/tjy-cool/cpp_design_patterns/tree/master/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F)
 
 ### 11. 享元模式（Flyweight Pattern）
