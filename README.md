@@ -5,9 +5,11 @@ c++设计模式
 
 ## 一. 创建型模式（Creational Patterns）
 
-### 1. 单例模式（Singleton Pattern） 
+### 1. 单例模式（Singleton Pattern
 
 保证一个类仅有一个实例，并提供一个访问它的全局访问点。
+
+[示例](https://github.com/tjy-cool/cpp_design_patterns/tree/master/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
 
 ### 2. 抽象工厂模式 （Abstract Factory Pattern） 
 
@@ -50,6 +52,8 @@ c++设计模式
 ### 12. 代理模式（Proxy Pattern） 
 为其他对象提供一个代理以控制对这个对象的访问。
 
+[示例](https://github.com/tjy-cool/cpp_design_patterns/tree/master/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F)
+
 ## 三. 行为型模式（Behavioral Patterns)
 
 ### 13. 模版方法模式 （Template Method Pattern） 
@@ -63,6 +67,8 @@ c++设计模式
 
 ### 16. 观察者模式（Observer Pattern） 
 定义对象间的一种一对多的依赖关系，以便当一个对象的状态发生改变时，所有依赖于它的对象都得到通知并自动刷新。
+
+[示例](https://github.com/tjy-cool/cpp_design_patterns/tree/master/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/%E6%96%B0%E9%97%BB%E8%AF%BB%E8%80%85)
 
 ### 17. 中介者模式（Mediator Pattern） 
 用一个中介对象来封装一系列的对象交互。中介者使各对象不需要显式地相互引用，从而使其耦合松散，而且可以独立地改变它们之间的交互。
